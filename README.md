@@ -2,7 +2,7 @@
 
 Android应用安全实战 Frida协议分析
 
-第1章 Frida逆向环境搭建
+# 第1章 Frida逆向环境搭建
 
 1.1 Frida框架介绍
 
@@ -24,7 +24,7 @@ Android应用安全实战 Frida协议分析
 
 1.3.3 frida-server配置
 
-第2章 Frida框架Java层应用
+# 第2章 Frida框架Java层应用
 
 2.1 Frida框架的Hook方法
 
@@ -58,7 +58,7 @@ Android应用安全实战 Frida协议分析
 
 2.3.3 Frida框架生成加密参数
 
-第3章 关键代码快速定位
+# 第3章 关键代码快速定位
 
 3.1 集合的Hook
 
@@ -98,7 +98,7 @@ Android应用安全实战 Frida协议分析
 
 3.5 实战：去除应用程序的强制升级
 
-第4章 算法“自吐”脚本开发
+# 第4章 算法“自吐”脚本开发
 
 4.1 工具函数封装
 
@@ -128,7 +128,7 @@ Android应用安全实战 Frida协议分析
 
 4.5.2 实战：某电竞界面跳转
 
-第5章 Frida框架so层基本应用
+# 第5章 Frida框架so层基本应用
 
 5.1 获取Module
 
@@ -168,7 +168,7 @@ Android应用安全实战 Frida协议分析
 
 5.5 实战：某热点登录协议分析
 
-第6章 JNI函数的Hook与快速定位
+# 第6章 JNI函数的Hook与快速定位
 
 6.1 JNI函数的Hook
 
@@ -202,7 +202,7 @@ Android应用安全实战 Frida协议分析
 
 6.4.2 实战：某App应用程序协议分析
 
-第7章 Frida框架so层进阶应用
+# 第7章 Frida框架so层进阶应用
 
 7.1 Frida操作内存数据
 
@@ -246,7 +246,7 @@ Android应用安全实战 Frida协议分析
 
 7.4 实战：某观察登录协议分析
 
-第8章 Frida框架算法转发方案
+# 第8章 Frida框架算法转发方案
 
 8.1 Frida的Python库使用
 
