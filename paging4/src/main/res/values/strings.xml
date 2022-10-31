@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">paging4</string>
+    <string name="search_beauty">Search Beauty</string>
+    <string name="retry">Retry</string>
+    <string name="no_results">No results</string>
+</resources>

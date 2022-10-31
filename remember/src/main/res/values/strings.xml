@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Remember</string>
+    <string name="ic_home_name">首页</string>
+    <string name="ic_message_name">消息</string>
+    <string name="ic_mine_name">我的</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_login_failed">Login failed.</string>
+    <string name="msg_username_invalid">Not a valid username.</string>
+    <string name="msg_password_invalid">Not a valid password.</string>
+    <string name="ic_list_name">列表</string>
+</resources>

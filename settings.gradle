@@ -1,0 +1,27 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "learn_jetpack"
+include ':app'
+//include ':navigation'
+//include ':navigation2'
+//include ':paging'
+//include ':paging2'
+//include ':paging3'
+//include ':paging4'
+//include ':hilt'
+//include ':dagger'
+//include ':dagger2'
+//include ':dagger3'
+include ':remember'
