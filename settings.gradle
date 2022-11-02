@@ -13,7 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "learn_jetpack"
-include ':app'
+//include ':app'
 //include ':navigation'
 //include ':navigation2'
 //include ':paging'
@@ -24,4 +24,4 @@ include ':app'
 //include ':dagger'
 //include ':dagger2'
 //include ':dagger3'
-include ':remember'
+//include ':remember'

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learn_jetpack.iml" filepath="$PROJECT_DIR$/.idea/modules/learn_jetpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/learn_jetpack.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/learn_jetpack.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/learn_jetpack.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/learn_jetpack.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/learn_jetpack.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/learn_jetpack.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/learn_jetpack.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/learn_jetpack.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remember/learn_jetpack.remember.iml" filepath="$PROJECT_DIR$/.idea/modules/remember/learn_jetpack.remember.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remember/learn_jetpack.remember.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/remember/learn_jetpack.remember.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remember/learn_jetpack.remember.main.iml" filepath="$PROJECT_DIR$/.idea/modules/remember/learn_jetpack.remember.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remember/learn_jetpack.remember.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/remember/learn_jetpack.remember.unitTest.iml" />
+    </modules>
+  </component>
+</project>
